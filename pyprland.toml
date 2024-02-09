@@ -1,0 +1,22 @@
+[pyprland]
+plugins = [
+  "scratchpads",
+]
+
+[scratchpads.term]
+animation = ""
+command = "kitty --class kitty-dropterm"
+class = "kitty-dropterm"
+
+
+[scratchpads.spot]
+animation = ""
+command = "spotify"
+class = "Spotify"
+
+
+[scratchpads.obs]
+animation = ""
+command = "obsidian"
+class = "obsidian"
+
